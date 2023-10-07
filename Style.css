@@ -1,3 +1,10 @@
-p{
-    color: brown;
+#h1{
+    text-align: center;
+    color: yellow;
+    background-color: black;
+}
+
+#btn1{
+text-align: center;
+margin-left: 50%;
 }
